@@ -4,7 +4,7 @@ import Footer from "../../components/Footer";
 export default function About() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <main className="container mx-auto p-6">
         <h1 className="text-3xl font-bold mb-4">About Us</h1>
         <p className="text-gray-600">
@@ -12,7 +12,7 @@ export default function About() {
           solutions for our clients.
         </p>
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }

@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 export default function Home() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <main className="container mx-auto p-6">
         <section className="text-center">
           <h1 className="text-4xl font-bold mb-4">Welcome to NaviKiwi</h1>
@@ -13,7 +13,7 @@ export default function Home() {
           </p>
         </section>
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }

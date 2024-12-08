@@ -9,8 +9,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        black: "#6EB12C", // Change black globally
+        greenPrimary: "#6EB12C", // Add a custom color name (optional)
       },
     },
   },
